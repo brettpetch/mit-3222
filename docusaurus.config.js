@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 (module.exports = {
   title: 'MIT 3222',
   tagline: '',
-  url: 'https://mit322.brettpetch.ca',
+  url: 'https://mit3222.brettpetch.ca',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
