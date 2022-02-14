@@ -21,7 +21,8 @@ module.exports = {
         items: [
             "lecture/intro",
             "lecture/week4",
-            "lecture/week5"
+            "lecture/week5",
+            "lecture/week6"
           ],
         },
     ]
