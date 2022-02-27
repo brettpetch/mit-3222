@@ -21,7 +21,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com///edit/master/',
+          editUrl: 'https://github.com/brettpetch/MIT-3222/edit/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -47,7 +47,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             label: 'Notes',
           },
           {
-            href: 'https://github.com//',
+            href: 'https://github.com/brettpetch/MIT-3222/',
             label: 'GitHub',
             position: 'right',
             },
@@ -88,7 +88,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com//',
+                href: 'https://github.com/brettpetch/MIT-3222/',
                 },
                 {
                 label: 'OWL',
