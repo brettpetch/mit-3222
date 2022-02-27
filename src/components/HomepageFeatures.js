@@ -8,11 +8,11 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-            Short Assignment Task #2 (5%) due this week by Friday, Feb.4th
+            Short Assignment Task #4 (5%) due this week by Friday, March 18th
             <br/>
-            Short Assignment Task #3 (5%) due this week by Friday, Feb. 18th
+            Short Assignment Task #5 (5%) due this week by Friday, March 25th
             <br/>
-            Midterm: Feb.28
+            TV Pitch (30%) due this week by Friday, April 1st, 2022
       </>
     ),
   },
@@ -30,7 +30,7 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Radio &amp; Television as Entertainment Media.
+        Midterm.
       </>
     ),
   },
