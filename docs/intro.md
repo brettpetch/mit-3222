@@ -7,6 +7,6 @@ slug: /intro/
 
 # Welcome
 
-This is a [Docusaurus](https://docusaurus.io/) documentation page that has been adapted into a class notebook.
+Hello there :) Please checkout the lecture category in the sidebar for the "good stuff."
 
-This is a test to check if automatic deploys work.
+/b
