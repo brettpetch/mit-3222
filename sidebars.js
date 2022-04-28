@@ -27,8 +27,7 @@ module.exports = {
             "lecture/week6",
             "lecture/week9",
             "lecture/week10",
-            "lecture/week11",
-            "lecture/review"
+            "lecture/week11"
           ],
         },
     ]
